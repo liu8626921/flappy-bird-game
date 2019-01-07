@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  flappybird.cpp
+flappybird.cpp(163): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  flappybird.vcxproj -> D:\visualworkspace\flappybird\Release\flappybird.exe

@@ -1,0 +1,4 @@
+﻿  flappybird.cpp
+d:\visualworkspace\flappybird\flappybird\flappybird.cpp(4): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+d:\visualworkspace\flappybird\flappybird\flappybird.cpp(4): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+d:\visualworkspace\flappybird\flappybird\flappybird.cpp(163): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
